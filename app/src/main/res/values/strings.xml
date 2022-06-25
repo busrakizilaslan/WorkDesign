@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WorkDesign</string>
+    <string name="welcome_back">Welcome Back,</string>
+    <string name="name" translatable="false">Çağlar</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="money">$ 50.744,17</string>
+    <string name="pay">Pay</string>
+    <string name="transaction">Transaction</string>
+    <string name="see_all">See All</string>
+    <string name="netflix" translatable="false">Netflix</string>
+    <string name="date1">25 June - 6:20 AM</string>
+    <string name="pay1" translatable="false">-$14,99</string>
+    <string name="spotify" translatable="false">Spotify</string>
+    <string name="date2">20 June - 8:19 AM</string>
+    <string name="pay2" translatable="false">-$14,99</string>
+    <string name="dribble" translatable="false">Dribble</string>
+    <string name="date3">17 June - 7:44 PM</string>
+    <string name="pay3" translatable="false">-$19,97</string>
+    <string name="amazon" translatable="false">Amazon</string>
+    <string name="date4" translatable="false">14 June- 5:17 PM</string>
+    <string name="pay4" translatable="false">-$28,90</string>
+    <string name="transfer">Transfer</string>
+    <string name="wallet">Wallet</string>
+</resources>

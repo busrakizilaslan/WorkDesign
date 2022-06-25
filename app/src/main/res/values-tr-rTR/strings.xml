@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ÇalışmaTasarımı</string>
+    <string name="welcome_back">Hoşgeldiniz,</string>
+    <string name="total_balance">Bakiye</string>
+    <string name="money">$ 50.744,17</string>
+    <string name="pay">Ödeme</string>
+    <string name="transaction">Transfer</string>
+    <string name="see_all">Tümünü Gör</string>
+    <string name="date1" translatable="false">25 Haz - 6:20 AM</string>
+    <string name="date2">20 Haz - 8:19 AM</string>
+    <string name="date3">17 Haz - 7:44 PM</string>
+    <string name="transfer">Transfer</string>
+    <string name="wallet">Cüzdan</string>
+</resources>
